@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi this is my README
+
+Pls dont read me
 
 <!--
 **Janniix/Janniix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

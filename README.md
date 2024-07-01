@@ -1,5 +1,3 @@
-### Hi this is my README
-
 🐄 (this is a cow)
 <!--
 **Janniix/Janniix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
